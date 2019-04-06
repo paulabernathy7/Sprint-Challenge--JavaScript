@@ -7,10 +7,32 @@
 */
 
 // tyrannosaurus, carnivorous, 7000kg, 12m, Late Cretaceious
+const dino1 = {
+  name: 'tyrannosaurus',
+  diet: 'carnivorous',
+  weight: '7000kg',
+  length: '12m',
+  peroid: 'Late Cretaceious'
+}
 
 // stegosaurus, herbivorous, 2000kg, 9m, Late Jurassic
+const dino2 = {
+  name: 'stegosaurus',
+  diet: 'herbivorous',
+  weight: '2000kg',
+  length: '9m',
+  peroid: 'Late Jurassic'
+}
 
 // velociraptor, carnivorous, 15kg, 1.8m, Late Cretaceious
+const dino3 = {
+  name: 'velociraptor',
+  diet: 'carnivorous',
+  weight: '15kg',
+  length: '1.8m',
+  peroid: 'Late Cretaceious'
+}
+
 
 // Using your dinosaur objects, log answers to these questions:
 
